@@ -1,0 +1,92 @@
+body {
+    background-color:#915D8D;
+    text-align: center;
+    align-items: center;
+    margin: auto;
+}
+p {
+     font-family: Verdana,Tahoma, sans-serif;
+     font-size: 13px;
+     text-align: justify;
+}  
+#menu {
+    height: 30px;
+    width: 50%;
+    margin: auto;
+    padding: 10px 0px;
+    text-align: center;
+    word-spacing: 15px;
+    color: black;
+    background-color:#FFAEDC ;
+}
+/*formatação link*/
+
+.cabecalho {
+    height: 200px;
+    margin-top: 15px;
+}
+.cabecalho img { 
+    width: 830px;
+    height: 200px;
+    padding: 0px;
+}
+
+#conteudo {
+    height: 70px;
+    width: 50%;
+    margin: auto;
+    padding: 10px 0px;
+    text-align: center;
+}
+#principal {
+    float: left;
+    height: 650px;
+    width: 65%;
+    margin: auto;
+    padding: 10px 10px;
+    text-align: center;
+    background-color: rgb(121, 201, 202);
+}
+
+#lateral {
+    width: 255px;
+    border-radius: 5px;
+    margin: 0px 0px 5px;
+    font-size: 10px;
+    float: right;
+    padding: 3px;
+    min-height: 100%;
+    background-color: #888F99;
+    font-size: 13px;
+}
+
+#lateral img {
+    width: 100%;
+}
+
+#rodape{
+    width: 960px;
+    height: 80px;
+    clear: both;
+    text-align: center;
+    background-color: #FFAEDC;
+
+    height: 70px;
+    width: 50%;
+    margin: auto;
+    padding: 10px 0px;
+    text-align: center;
+}
+#pagina {
+    border: 2px solid ;
+}
+a:link {
+    color: black;
+    text-decoration: underline;
+}
+a:hover {
+    text-decoration: none;
+    background-color: #B573B0;
+    color: #202020;
+    padding: 5px;
+}
